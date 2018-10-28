@@ -72,6 +72,10 @@ NerveNetの特長のひとつである、メッシュネットワークによる
 
         /writable/sbin/monitor-link --config=/writable/etc/monitor-link.conf
 
+![14_connect-id150_bs13](https://user-images.githubusercontent.com/4217754/47611883-02c07000-dab2-11e8-9ee1-5696b4dc8840.png)
+![11_distconnect-id152_bs13](https://user-images.githubusercontent.com/4217754/47611884-03f19d00-dab2-11e8-8f22-71a82583d731.png)
+![12_distconnect-id150_bs13](https://user-images.githubusercontent.com/4217754/47611885-05bb6080-dab2-11e8-8288-a0e9221b5bb1.png)
+![15_poweroff-id152](https://user-images.githubusercontent.com/4217754/47611886-06ec8d80-dab2-11e8-8844-b630f04ba449.png)
 
 ## 使い方（アドバンスド編）
 
