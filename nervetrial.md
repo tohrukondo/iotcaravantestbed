@@ -35,6 +35,9 @@
 
 ![01_ssid](https://user-images.githubusercontent.com/4217754/47611817-66499e00-dab0-11e8-8f2f-02dae6be0080.png)
 
+![02_ipconfig](https://user-images.githubusercontent.com/4217754/47611820-82e5d600-dab0-11e8-89b1-cc09a5d2cf93.png)
+
+![03_internet](https://user-images.githubusercontent.com/4217754/47611823-92fdb580-dab0-11e8-8b3e-94c0f4b71284.png)
 
 ### その2. 耐障害性の体験してみる
 
