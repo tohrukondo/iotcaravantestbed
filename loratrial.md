@@ -13,6 +13,16 @@ LPWA(LoRaWAN)試験機は、GNSSモジュールとLoRa通信モジュールを�
 - モバイルバッテリー（電源アダプタ付き）: 1台
   - 事前に満充電であることを確認してください
 
+なお、貸出時のLoRa通信モジュールの設定は以下の値になっています。
+
+| パラメータ | 設定値 |
+----|---- 
+| Bandwidth | 125kHz |
+| Spreading Factor | 7 |
+| Channel | 1 |
+| Retry Count | 3 |
+| Transmit Power | 13dBm |
+
 ## 使い方
 
 使い方は非常にシンプルです。
@@ -58,12 +68,13 @@ URLにアクセスすると、地図とコントロールパネルが表示さ�
 
 ![web](https://user-images.githubusercontent.com/4217754/47617142-b4d65700-db07-11e8-8813-220db50bb3af.png)
 
-カレンダーボタンからデータ取得をした日付を選択し、デバイスを選択して表示時間を調整することで、地図上に電波測定結果が表示されます。
+カレンダーボタンからデータ取得をした日付を選択し、デバイスを選択して表示時間を調整することで、地図上に電波測定結果が表示されます。カレンダー上で日付を選択する際に、「Include cordinator in download data」にチエックを入れると、親機の情報もあわせてダウンロードされます。
 
-![1](https://user-images.githubusercontent.com/4217754/47617181-fd8e1000-db07-11e8-82e6-e077348b8666.png)
-![2](https://user-images.githubusercontent.com/4217754/47617182-febf3d00-db07-11e8-9b0a-1c18f7dfb96e.png)
-![3](https://user-images.githubusercontent.com/4217754/47617183-00890080-db08-11e8-8ecb-65166694eaa4.png)
+![1](https://user-images.githubusercontent.com/4217754/47617196-3928da00-db08-11e8-96c6-5cf075102285.png)
+![2](https://user-images.githubusercontent.com/4217754/47617197-3928da00-db08-11e8-84a6-89b4c528b85a.png)
+![3](https://user-images.githubusercontent.com/4217754/47617200-3a5a0700-db08-11e8-811b-5da1ecb22701.png)
 
+リアルタイムにアップロードされたデータを可視化するには、左下の「時間の操作」パネル内にある時計マークをクリックします。測定からウェブ画面反映までの所要時間は数秒ですので、ほぼリアルタイムで測定結果を確認することができます。
 
 ## 次のステップへ
 TBD
