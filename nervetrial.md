@@ -1,6 +1,6 @@
 # NerveNetトライアル利用マニュアル
 基地局同士が自動的に相互接続する機能を持ち、災害時に一部のルートで障害が発生しても直ちに別のルートに切り替え、通信を確保する無線マルチホップ技術を用いた分散ネットワークです。各基地局が通信機能に加えてデータの蓄積・同期機能を有しており、アプリケーションと連携することで、データ配信や共有を行うことが可能です。
-詳細は NICTの[NerveNetのサイト]:https://www.nict.go.jp/out-promotion/other/case-studies/itenweb/nervenet.html をご覧ください。
+詳細は NICTの[NerveNetのサイト](https://www.nict.go.jp/out-promotion/other/case-studies/itenweb/nervenet.html) をご覧ください。
 
 本トライアルは、NerveNetの通信機能を実体験することで、耐障害性・耐災害性を有するネットワーク上でのアプリケーション検証などを行うことができます。
 
