@@ -23,7 +23,7 @@
 
 スイッチには外部ネットワーク（インターネット回線）からの配線とRasPi向けの配線（2本）を用意します。RasPiには内蔵無線インタフェース(11g)と2つの外付け無線インタフェース（11a）、有線インタフェースを具備しています。NerveNetの特性であるメッシュネットワークを体験するために、有線と無線のリンクを用意します。
 
-3台のRasPiには独立した無線LAN（異なるネットワークセグメント）が提供されています。デバイスIDや設定されたネットワークセグメントは貸出機器ごとに異なります。本説明における、初期状態では 172.16.XXX.0/24 が設定されています。
+3台のRasPiには独立した無線LAN（異なるネットワークセグメント）が提供されています。デバイスIDや設定されたネットワークセグメントは貸出機器ごとに異なります。本説明における、初期状態では 172.16.${デバイスID}.0/24 が設定されています。
 
 ## 使い方（基本編）
 
@@ -33,9 +33,9 @@
 1. IoTデバイスにDHCPでIPアドレスが自動付与されます
 1. IoTデバイスから異なるRasPiが提供するネットワーク配下のノードやインターネットアクセスをしてみます
 
-![01_ssid](https://user-images.githubusercontent.com/4217754/47611817-66499e00-dab0-11e8-8f2f-02dae6be0080.png)
-![02_ipconfig](https://user-images.githubusercontent.com/4217754/47611828-b294de00-dab0-11e8-8a58-6b682f05f587.png)
-
+![01_ssid](https://user-images.githubusercontent.com/4217754/47611852-4d8db800-dab1-11e8-9a7a-d66ab16fbec4.png)
+![02_ipconfig](https://user-images.githubusercontent.com/4217754/47611853-53839900-dab1-11e8-870b-37a435a09a3b.png)
+![03_internet](https://user-images.githubusercontent.com/4217754/47611854-554d5c80-dab1-11e8-84d5-ba9d11503792.png)
 
 ### その2. 耐障害性の体験してみる
 
