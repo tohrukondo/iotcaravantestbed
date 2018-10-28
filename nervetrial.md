@@ -58,7 +58,7 @@ NerveNetの特長のひとつである、メッシュネットワークによる
 
 例えば、リンク状態を確認するには以下のコマンドを可視化パソコンのターミナルで入力します。
 
-  /writable/sbin/monitor-link --config=/writable/etc/monitor-link.conf
+    /writable/sbin/monitor-link --config=/writable/etc/monitor-link.conf
 
 「その2」で示した通り、リンクを切断すると、下図のようにリンクの色が変化します。
 
