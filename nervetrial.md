@@ -49,7 +49,7 @@ NerveNetの特長のひとつである、メッシュネットワークによる
 1. ID150とBS13の間の有線LANを接続してみます。全リンクが復旧します
 1. ID152のRasPiの電源を落としてみます
 
-![05_dest](https://user-images.githubusercontent.com/4217754/47611945-318b1600-dab3-11e8-90fe-41631345f9b1.png)
+![05_dest](https://user-images.githubusercontent.com/4217754/47611955-7ca52900-dab3-11e8-9bc8-7846d007b397.png)
 
 上記のようにリンクを切断・接続しながら、通信路が自動で切り替わりインターネット接続が継続されることを確認することができます。
 
