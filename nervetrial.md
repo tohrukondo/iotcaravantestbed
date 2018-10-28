@@ -31,11 +31,11 @@
 
 1. IoTデバイスを繋ぎたいRasPiが提供するユーザアクセス用のSSIDに接続します。ここではネットワークB（ID:151）に接続してみます
 1. IoTデバイスにDHCPでIPアドレスが自動付与されます
+1. IoTデバイスから異なるRasPiが提供するネットワーク配下のノードやインターネットアクセスをしてみます
 
 ![01_ssid](https://user-images.githubusercontent.com/4217754/47611817-66499e00-dab0-11e8-8f2f-02dae6be0080.png)
 ![02_ipconfig](https://user-images.githubusercontent.com/4217754/47611828-b294de00-dab0-11e8-8a58-6b682f05f587.png)
 
-1. IoTデバイスから異なるRasPiが提供するネットワーク配下のノードやインターネットアクセスをしてみます
 
 ### その2. 耐障害性の体験してみる
 
