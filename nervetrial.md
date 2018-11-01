@@ -23,7 +23,7 @@
 
 事前に設定されているトライアル構成は下図の通りです。本マニュアルでは、ネットワーク装置にはBS13のIDが付与されており, RasPiにはそれぞれID150, ID151, ID152のIDが付与されているものとして説明します。
 
-![nerve](https://user-images.githubusercontent.com/4217754/47612060-11a92180-dab6-11e8-9c4a-ae0cc79e6175.png)
+![nerve](https://user-images.githubusercontent.com/4217754/47858865-4e677680-de30-11e8-87b0-52356a3e9357.png)
 
 ネットワーク装置は、以下の4つのポートを備えています。
   - インターネット接続用ポート
