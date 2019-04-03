@@ -1,4 +1,4 @@
-# LPWA(LoRaWAN)試験機マニュアル
+# LPWA(Private LoRa)試験機マニュアル
 
 ## LPWA（LoRaWAN)試験機とは？
 
